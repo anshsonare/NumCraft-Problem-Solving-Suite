@@ -16,3 +16,8 @@ NumCraft is an interactive, menu-driven Python application that implements core 
 - Git & GitHub for version control
 
 ## Project Structure
+NumCraft/
+│
+├── main.py # Entry point and menu system (all modules)
+├── README.md
+└── statement.md
